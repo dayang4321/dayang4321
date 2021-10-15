@@ -16,7 +16,7 @@ Skills: ⚛ React  📱 React Native 💻 HTML, CSS, JS
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-!<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayang4321&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=stars,issues,contribs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayang4321&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=stars,issues,contribs" />
 
     
 ![Profile views](https://gpvc.arturio.dev/dayang4321)  
