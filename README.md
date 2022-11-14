@@ -16,7 +16,7 @@ Primary Tools: ⚛ React  📱 React Native 💻 HTML, CSS, JS/TS
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayang4321&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayang4321&show_icons=true&hide_border=true&layout=compact&langs_count=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayang4321&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
 </p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dayang4321)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-ayang/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.dayang.dev)  
