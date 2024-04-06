@@ -1,16 +1,18 @@
-### Hi there 👋, I am Dave
-#### A Software Engineer (Front End)
-David is a self-taught front-end developer  with a mechanical engineering background that is currently pursuing a Master’s in Computer Science. 
-He is adept at developing client-side logic and producing amazing interfaces for web and mobile, obsessed with implementing pixel-perfect UIs and building applications that are accessible, performant, scalable, and deliver a seamless user experience. His analytical approach to problem-solving stems from an engineering background and it has proven to be instrumental in his software engineering career.
+### Hi there 👋, I'm Dave
+#### A Software Developer (Front End)
 
-Primary Tools: ⚛ React  📱 React Native 💻 HTML, CSS, JS/TS
+I'm a software developer specializing in front-end technologies, with over 4 years of experience in web and mobile application development. Recently, I completed my Master’s in Computer Science, focusing on advanced software development. My journey began with a background in mechanical engineering, bringing a unique perspective to problem-solving in the world of software engineering.
 
-- 🔭 I recently built the front-end (web and mobile apps) for [Pakpadi](https://pakpadi-demo.netlify.app/) and [RedPenny](https://redpenny.app/)  
-- 👯 I’m looking to collaborate on Open source projects and startups 
-- 📫 How to reach me: davetherubix@gmail.com 
-- 😄 Pronouns: He/His 
-- ⚡ Fun fact: I like code reviews lol. 
+🛠 **Primary Tools:** ⚛  TypeScript, React, 📱 React Native, 💻 HTML/CSS,
 
+- 🔭 **Academic Experience:** During my time as a Computer Science Master’s student at TU Dublin, I delved into various aspects of software development, honing my skills and expanding my knowledge base. I engaged in coursework covering topics such as Web and User Interface Design, Systems Analysis and Testing, Programming Paradigms, and Machine Learning. Noteworthy projects include simulating a stack-smashing attack and implementing the SHA3/Keccak algorithm in C, designing an ML experiment comparing k-fold cross-validation vs hold-out testing, and leading an MSc. thesis team project [Accessibilator](https://redpenny.app/)  
+ focused on improving document readability for individuals with learning disabilities using Next.js, Spring, TensorFlow, and AWS.
+
+- 👯 **Professional Experience:** In my current role at Tittisoft di Tullio Tesorone, I've played a pivotal role in designing and building the web version of Arxivar Email using Angular, contributing to its usability and accessibility. Prior to this, I developed new features and visualizations for iERP.ai's Nostradamus platform, achieving a 15% increase in platform efficiency. As a freelance contractor, I've built applications for companies such as Pakpadi and RedPenny, receiving high client ratings and contributing to their success in simplifying payment remittance processes and achieving saving goals, respectively.
+
+- 📫 Feel free to reach out to me at david.ayang1@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy code reviews!
 
 📈 **My GitHub Stats:**
 
@@ -19,6 +21,9 @@ Primary Tools: ⚛ React  📱 React Native 💻 HTML, CSS, JS/TS
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayang4321&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dayang4321)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-ayang/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.dayang.dev)  
-    
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/dayang4321) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/david-ayang/) [![Website](https://img.shields.io/badge/-Website-0056b3?style=flat&logo=icloud)](https://www.dayang.dev)  
+
 ![Profile views](https://gpvc.arturio.dev/dayang4321)  
+
+Feel free to connect with me and explore my projects!  
+
