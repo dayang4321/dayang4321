@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Dave
 #### A Software Developer
 
-I'm a software developer specializing in front-end technologies, with over 4 years of experience in web and mobile application development. Recently, I completed my Master’s in Computer Science, focusing on advanced software development. My journey began with a background in mechanical engineering, bringing a unique perspective to problem-solving in the world of software engineering.
+I'm a software developer specializing in front-end technologies, with about 4 years of experience in web and mobile application development. Recently, I completed my Master’s in Computer Science, focusing on advanced software development. My journey began with a background in mechanical engineering, bringing a unique perspective to problem-solving in the world of software engineering.
 
 🛠 **Primary Tools:** ⚛   💻 HTML/CSS, TypeScript, React/NextJs, Node.js, 📱 React Native
 
